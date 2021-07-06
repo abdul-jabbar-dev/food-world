@@ -70,7 +70,7 @@ body {
 .about {
     display: flex;
     justify-content: center;
-    background-image: url(/images/shapes/bg.png);
+    background-image: url(images/shapes/bg.png);
     background-size: 105%;
     background-position-x: -68px;
     background-repeat: no-repeat;
